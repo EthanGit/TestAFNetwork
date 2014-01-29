@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAC118F5-8B1A-486B-90A7-AB214B85720C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyTestAFNetwork</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>39E4FE6E-0CCF-4F67-8694-24F31C2D1A9F</key>
+		<string>https://github.com/EthanGit/TestAFNetwork.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyTestAFNetwork.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>39E4FE6E-0CCF-4F67-8694-24F31C2D1A9F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/EthanGit/TestAFNetwork.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>39E4FE6E-0CCF-4F67-8694-24F31C2D1A9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39E4FE6E-0CCF-4F67-8694-24F31C2D1A9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestAFNetwork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
